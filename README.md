@@ -1,6 +1,6 @@
 # Terraform and Cloud: create the infrastructure to host your container.
 
-create a main.tf using vpc module and Eks module
-create 2 private subnet and 2 public subnet
-create eks cluster and node in private subnet
-create load balancer in public subnet for receving traffic.
+1.Create a main.tf using the VPC module and EKS module.
+2.Create 2 private subnets and 2 public subnets.
+3.Create an EKS cluster and a node in a private subnet.
+4.Create a load balancer in the public subnet for receiving traffic.
